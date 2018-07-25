@@ -15,7 +15,7 @@ HTTP 请求分为三个部分： 状态行，请求头，消息主体
 cookie   (大小在4KB)
 
 
-//服务器端设置
+//服务器端设置<br />
 Cache-Control   //no-cache  对比缓存 （304状态）  no-store 强制缓存
 Last-Modified /If-Modified-Since
 Etag/If-None-Match
